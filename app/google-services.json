@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26987283180",
+    "project_id": "colude-72b4b",
+    "storage_bucket": "colude-72b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26987283180:android:8260745714b01105ed5bc9",
+        "android_client_info": {
+          "package_name": "com.example.colude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26987283180-6fls7i7dqj2hl755657g775m464nno47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBunRVmmdKHxI1cXmEz4S85FNgK24_X0iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26987283180-6fls7i7dqj2hl755657g775m464nno47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
